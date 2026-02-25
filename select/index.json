@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "GOLDEN",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-02-25T02:25:30.277967Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Golden Hour",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/01_Golden_Hour_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Golden Ring",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/02_Golden_Ring_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Golden Ring",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/03_Golden_Ring_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Golden Ring - Single Version",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/04_Golden_Ring_-_Single_Version_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Golden Ring (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/05_Golden_Ring_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Golden Rocket",
+      "artist": "Hank Snow",
+      "has_synced": true,
+      "path": "select/06_The_Golden_Rocket_Hank_Snow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Golden Ghost",
+      "artist": "Rolo Tomassi",
+      "has_synced": false,
+      "path": "select/07_The_Golden_Ghost_Rolo_Tomassi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Golden Years",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/08_Golden_Years_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Golden Years",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Golden_Years_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Golden Years",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_Golden_Years_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Golden Years",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_Golden_Years_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Golden Years (Single Version)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/12_Golden_Years_(Single_Version)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Silence Is Golden",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/13_Silence_Is_Golden_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Reaching - vocals by Golden Phoenix",
+      "artist": "ZHU",
+      "has_synced": false,
+      "path": "select/14_Reaching_-_vocals_by_Golden_Phoenix_ZHU.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Completely Golden",
+      "artist": "Lower Dens",
+      "has_synced": true,
+      "path": "select/15_Completely_Golden_Lower_Dens.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mood Ring (feat. Ravenna Golden)",
+      "artist": "Liz",
+      "has_synced": true,
+      "path": "select/16_Mood_Ring_(feat._Ravenna_Golden)_Liz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOLDEN",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_GOLDEN_HIMEHINA.txt"
+    }
+  ]
+}
